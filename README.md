@@ -1,3 +1,3 @@
 # Task - Hello Toast Application
 
-<img src="gif/task.gif"/>
+<img src="gif/Task.gif"/>
